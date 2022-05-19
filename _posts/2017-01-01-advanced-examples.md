@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Email - sanjitmukesh1@gmail.com"
 mathjax: true
 layout: post
 categories: media
