@@ -10,11 +10,11 @@ title: ""
 
 * I'm a junior currently attending Carroll Senior High School.
 
-* I am an aspiring CS major, and plan on learning various programming languages including Python and C++.
+* I'm an aspiring CS major, and I plan on learning various programming languages besides Java including Python and C++.
 
 * In addition, my brother is studying computer science as a freshman in college. I would say his career choice greatly influenced my views.
 
 
-> Computer Science is a science of abstraction - creating the right model for a problem and deivsing the aprpiate mechanizable techniques to solve it.
+> Computer Science is a science of abstraction -- creating the right model for a problem and devising the appropriate mechanizable techniques to solve it.
 >
 > – _Alfred Aho_
