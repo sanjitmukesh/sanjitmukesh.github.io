@@ -10,7 +10,7 @@ title: ""
 
 * I'm a junior currently attending Carroll Senior High School.
 
-* I'm an aspiring CS major, and I plan on learning various programming languages besides Java including Python and C++.
+* I'm an aspiring CS major, and I plan on learning various programming languages besides Java including Python and C++. I am also learning the basics of HTML and web development.
 
 * In addition, my brother is studying computer science as a freshman in college. I would say his career choice greatly influenced my views.
 
