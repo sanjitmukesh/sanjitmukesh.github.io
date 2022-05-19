@@ -3,8 +3,10 @@ layout: default
 title: "Contact"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+## Contacts
+
+* Questions or concerns? 
+ 
+*   Email me @sanjitmukesh1@gmail.com
+   
+*   Call me - (972)-693-5840
