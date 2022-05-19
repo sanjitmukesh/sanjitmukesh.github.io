@@ -7,6 +7,6 @@ title: "Contact"
 
 * Questions or concerns? 
  
-*   Email me @sanjitmukesh1@gmail.com
+*   Email - sanjitmukesh1@gmail.com
    
-*   Call me - (972)-693-5840
+*   Cell - (972)-693-5840
